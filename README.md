@@ -1,5 +1,5 @@
 # Jia Le Home Page
-(https://github.com/JiaLe0709/jiale0709.github.io/blob/Master/LICENSE.MD)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JiaLe0709/jiale0709.github.io/blob/Master/LICENSE.MD)
 
 ## Link :
 https://jiale0709.github.io/
