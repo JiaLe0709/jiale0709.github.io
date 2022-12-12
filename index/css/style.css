@@ -18,10 +18,16 @@ body {
 
 h1 {
     font-size: 50px;
+    -webkit-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none;
 }
 
 p {
     color: rgba(255, 255, 255, 0.8);
     letter-spacing: 2px;
     margin: 0;
+    -webkit-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none;
 }
