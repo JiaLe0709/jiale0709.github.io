@@ -7,23 +7,25 @@
     margin: 0;
     padding: 0;
     font-family: exo;
-    background: #222222;
     color: white;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: exo;
+    color: #333;
 }
 
 p {
-    color: white;
+    color: #333;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
 }
 
 h1 {
+    color: #333;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-}
-
-#count {
-    color: white;
 }
