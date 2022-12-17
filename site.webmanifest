@@ -1,0 +1,14 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "/static/assets/Jia_Le.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        }
+    ],
+    "theme_color": "#98FB98",
+    "background_color": "#98FB98",
+    "display": "standalone"
+}
