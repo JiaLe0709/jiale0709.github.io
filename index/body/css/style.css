@@ -22,7 +22,6 @@ body {
 }
 
 p {
-    color: #333;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
@@ -34,3 +33,11 @@ h1 {
     -ms-user-select: none;
     user-select: none;
 }
+
+::-moz-selection {
+    background: rgb(0, 255, 21);
+  }
+  
+  ::selection {
+    background: rgb(0, 255, 21);
+  }
